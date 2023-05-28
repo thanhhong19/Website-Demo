@@ -1,0 +1,19 @@
+Bao Vic
+bai tap 1:
+
+  - tao 1 the "a"
+    + click vao the "a" lan dau thi them class "ACTIVE" vao the a
+    + click vao the "a" lan 2 , neu co class "ACTIVE" thi xoa class do di.
+    tuong tu lan 3 va 4.
+
+  
+  bai tap 2:
+  - tao 1 the "a"
+    + click vao the "a" lan dau thi them class "ACTIVE" vao the a va dong thoi HIDE P di
+    + click vao the "a" lan 2 , neu co class "ACTIVE" thi xoa class do di va show the P len
+    tuong tu lan 3 va 4.
+
+  
+  bai tap 3:
+   - tao 1 ul va 4 LI, cho mỗi LI 1 class hoặc ID rieng.
+   - click vao Li nao thi them background vao cho Li do.
